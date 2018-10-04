@@ -1,7 +1,5 @@
 # CROSS-SITE REQUEST FORGERY - Anti-CSRF token 
  Prevent CSRF vulnerabilities by generating Cross-Site Request Forgery Tokens in server side and validating them before respond to any client request.
- 
-Preventing CSRF Vulnerabilities
 
 There are two approaches by which Cross-site Request Forgery (CSRF)  
 
